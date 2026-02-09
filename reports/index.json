@@ -1,0 +1,25 @@
+[
+  {
+    "id": "20260208-222348-ws8n",
+    "title": "Alàide",
+    "commanders": [
+      "Alàide"
+    ],
+    "dateStart": "2026-02-08T22:23:48.000Z",
+    "dateEnd": "2026-02-08T22:30:47.000Z",
+    "dateLabel": "08/02/2026, 22:23:48 - 08/02/2026, 22:30:47",
+    "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260208-222348-ws8n",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 1,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 38,
+      "avgEnemySize": 0
+    }
+  }
+]
