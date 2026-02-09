@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260209-204801-51po",
+    "title": "Alàide",
+    "commanders": [
+      "Alàide"
+    ],
+    "dateStart": "2026-02-09T20:48:01.000Z",
+    "dateEnd": "2026-02-09T22:52:10.000Z",
+    "dateLabel": "09/02/2026, 20:48:01 - 09/02/2026, 22:52:10",
+    "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260209-204801-51po",
+    "summary": {
+      "borderlandsPct": 0.10810810810810811,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 33,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 4,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 30,
+      "avgEnemySize": 19
+    }
+  },
+  {
     "id": "20260208-210313-egq9",
     "title": "Alàide",
     "commanders": [
