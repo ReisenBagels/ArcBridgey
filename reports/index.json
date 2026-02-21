@@ -1,5 +1,29 @@
 [
   {
+    "id": "20260221-021451-wtka",
+    "title": "Eva Jadesmith, Tony The Tortoise",
+    "commanders": [
+      "Eva Jadesmith",
+      "Tony The Tortoise"
+    ],
+    "dateStart": "2026-02-21T02:14:51.000Z",
+    "dateEnd": "2026-02-21T03:53:29.000Z",
+    "dateLabel": "21/02/2026, 02:14:51 - 21/02/2026, 03:53:29",
+    "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260221-021451-wtka",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 19,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 25,
+      "avgEnemySize": 43
+    }
+  },
+  {
     "id": "20260216-210357-8vak",
     "title": "Chocolate Teapot",
     "commanders": [
