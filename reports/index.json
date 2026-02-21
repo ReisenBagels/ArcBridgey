@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260221-215920-9ecn",
+    "title": "Notzwollf",
+    "commanders": [
+      "Notzwollf"
+    ],
+    "dateStart": "2026-02-21T21:59:20.000Z",
+    "dateEnd": "2026-02-21T23:01:32.000Z",
+    "dateLabel": "21/02/2026, 21:59:20 - 21/02/2026, 23:01:32",
+    "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260221-215920-9ecn",
+    "summary": {
+      "borderlandsPct": 0.2222222222222222,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 7,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 2,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 37,
+      "avgEnemySize": 21
+    }
+  },
+  {
     "id": "20260221-021451-wtka",
     "title": "Eva Jadesmith, Tony The Tortoise",
     "commanders": [
