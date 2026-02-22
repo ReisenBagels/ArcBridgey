@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260222-211021-y8l8",
+    "title": "Alàide",
+    "commanders": [
+      "Alàide"
+    ],
+    "dateStart": "2026-02-22T21:10:21.000Z",
+    "dateEnd": "2026-02-22T22:28:05.000Z",
+    "dateLabel": "22/02/2026, 21:10:21 - 22/02/2026, 22:28:05",
+    "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260222-211021-y8l8",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 11,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 3,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 37,
+      "avgEnemySize": 12
+    }
+  },
+  {
     "id": "20260221-215920-9ecn",
     "title": "Notzwollf",
     "commanders": [
