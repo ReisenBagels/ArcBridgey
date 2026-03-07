@@ -1,296 +1,341 @@
-[
-  {
-    "id": "20260228-212231-70il",
-    "title": "Alàide",
-    "commanders": [
-      "Alàide"
-    ],
-    "dateStart": "2026-02-28T21:22:31.000Z",
-    "dateEnd": "2026-02-28T22:59:15.000Z",
-    "dateLabel": "28/02/2026, 21:22:31 - 28/02/2026, 22:59:15",
-    "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260228-212231-70il",
-    "summary": {
-      "borderlandsPct": 0.18181818181818182,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 18,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 2,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 1,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 1,
-          "color": "#22c55e"
-        }
-      ],
-      "avgSquadSize": 31,
-      "avgEnemySize": 46
-    }
+{
+  "siteTheme": {
+    "ui": "classic",
+    "paletteId": "Amethyst",
+    "kineticFont": "default"
   },
-  {
-    "id": "20260222-211021-y8l8",
-    "title": "Alàide",
-    "commanders": [
-      "Alàide"
-    ],
-    "dateStart": "2026-02-22T21:10:21.000Z",
-    "dateEnd": "2026-02-22T22:28:05.000Z",
-    "dateLabel": "22/02/2026, 21:10:21 - 22/02/2026, 22:28:05",
-    "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260222-211021-y8l8",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 11,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 3,
-          "color": "#3b82f6"
-        }
+  "entries": [
+    {
+      "id": "20260307-210953-5vvt",
+      "title": "Alaidè",
+      "commanders": [
+        "Alaidè"
       ],
-      "avgSquadSize": 37,
-      "avgEnemySize": 12
-    }
-  },
-  {
-    "id": "20260221-215920-9ecn",
-    "title": "Notzwollf",
-    "commanders": [
-      "Notzwollf"
-    ],
-    "dateStart": "2026-02-21T21:59:20.000Z",
-    "dateEnd": "2026-02-21T23:01:32.000Z",
-    "dateLabel": "21/02/2026, 21:59:20 - 21/02/2026, 23:01:32",
-    "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260221-215920-9ecn",
-    "summary": {
-      "borderlandsPct": 0.2222222222222222,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 7,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 2,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-03-07T21:09:53.000Z",
+      "dateEnd": "2026-03-07T22:53:30.000Z",
+      "dateLabel": "07/03/2026, 21:09:53 - 07/03/2026, 22:53:30",
+      "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260307-210953-5vvt",
+      "summary": {
+        "borderlandsPct": 0.3125,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 33
+      }
+    },
+    {
+      "id": "20260228-212231-70il",
+      "title": "Alàide",
+      "commanders": [
+        "Alàide"
       ],
-      "avgSquadSize": 37,
-      "avgEnemySize": 21
-    }
-  },
-  {
-    "id": "20260221-021451-wtka",
-    "title": "Eva Jadesmith, Tony The Tortoise",
-    "commanders": [
-      "Eva Jadesmith",
-      "Tony The Tortoise"
-    ],
-    "dateStart": "2026-02-21T02:14:51.000Z",
-    "dateEnd": "2026-02-21T03:53:29.000Z",
-    "dateLabel": "21/02/2026, 02:14:51 - 21/02/2026, 03:53:29",
-    "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260221-021451-wtka",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 19,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-28T21:22:31.000Z",
+      "dateEnd": "2026-02-28T22:59:15.000Z",
+      "dateLabel": "28/02/2026, 21:22:31 - 28/02/2026, 22:59:15",
+      "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260228-212231-70il",
+      "summary": {
+        "borderlandsPct": 0.18181818181818182,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 46
+      }
+    },
+    {
+      "id": "20260222-211021-y8l8",
+      "title": "Alàide",
+      "commanders": [
+        "Alàide"
       ],
-      "avgSquadSize": 25,
-      "avgEnemySize": 43
-    }
-  },
-  {
-    "id": "20260216-210357-8vak",
-    "title": "Chocolate Teapot",
-    "commanders": [
-      "Chocolate Teapot"
-    ],
-    "dateStart": "2026-02-16T21:03:57.000Z",
-    "dateEnd": "2026-02-16T23:04:00.000Z",
-    "dateLabel": "16/02/2026, 21:03:57 - 16/02/2026, 23:04:00",
-    "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260216-210357-8vak",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 12,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-02-22T21:10:21.000Z",
+      "dateEnd": "2026-02-22T22:28:05.000Z",
+      "dateLabel": "22/02/2026, 21:10:21 - 22/02/2026, 22:28:05",
+      "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260222-211021-y8l8",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 12
+      }
+    },
+    {
+      "id": "20260221-215920-9ecn",
+      "title": "Notzwollf",
+      "commanders": [
+        "Notzwollf"
       ],
-      "avgSquadSize": 31,
-      "avgEnemySize": 28
-    }
-  },
-  {
-    "id": "20260215-210136-bvb0",
-    "title": "Alàide",
-    "commanders": [
-      "Alàide"
-    ],
-    "dateStart": "2026-02-15T21:01:36.000Z",
-    "dateEnd": "2026-02-15T22:13:35.000Z",
-    "dateLabel": "15/02/2026, 21:01:36 - 15/02/2026, 22:13:35",
-    "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260215-210136-bvb0",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 10,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-02-21T21:59:20.000Z",
+      "dateEnd": "2026-02-21T23:01:32.000Z",
+      "dateLabel": "21/02/2026, 21:59:20 - 21/02/2026, 23:01:32",
+      "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260221-215920-9ecn",
+      "summary": {
+        "borderlandsPct": 0.2222222222222222,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 21
+      }
+    },
+    {
+      "id": "20260221-021451-wtka",
+      "title": "Eva Jadesmith, Tony The Tortoise",
+      "commanders": [
+        "Eva Jadesmith",
+        "Tony The Tortoise"
       ],
-      "avgSquadSize": 32,
-      "avgEnemySize": 36
-    }
-  },
-  {
-    "id": "20260212-205849-1dhs",
-    "title": "Alàide",
-    "commanders": [
-      "Alàide"
-    ],
-    "dateStart": "2026-02-12T20:58:49.000Z",
-    "dateEnd": "2026-02-12T22:42:46.000Z",
-    "dateLabel": "12/02/2026, 20:58:49 - 12/02/2026, 22:42:46",
-    "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260212-205849-1dhs",
-    "summary": {
-      "borderlandsPct": 0.04,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 24,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 1,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-21T02:14:51.000Z",
+      "dateEnd": "2026-02-21T03:53:29.000Z",
+      "dateLabel": "21/02/2026, 02:14:51 - 21/02/2026, 03:53:29",
+      "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260221-021451-wtka",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 19,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 43
+      }
+    },
+    {
+      "id": "20260216-210357-8vak",
+      "title": "Chocolate Teapot",
+      "commanders": [
+        "Chocolate Teapot"
       ],
-      "avgSquadSize": 30,
-      "avgEnemySize": 30
-    }
-  },
-  {
-    "id": "20260210-205333-d6xb",
-    "title": "Alàide",
-    "commanders": [
-      "Alàide"
-    ],
-    "dateStart": "2026-02-10T20:53:33.000Z",
-    "dateEnd": "2026-02-10T22:58:17.000Z",
-    "dateLabel": "10/02/2026, 20:53:33 - 10/02/2026, 22:58:17",
-    "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260210-205333-d6xb",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 36,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-02-16T21:03:57.000Z",
+      "dateEnd": "2026-02-16T23:04:00.000Z",
+      "dateLabel": "16/02/2026, 21:03:57 - 16/02/2026, 23:04:00",
+      "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260216-210357-8vak",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 28
+      }
+    },
+    {
+      "id": "20260215-210136-bvb0",
+      "title": "Alàide",
+      "commanders": [
+        "Alàide"
       ],
-      "avgSquadSize": 29,
-      "avgEnemySize": 36
-    }
-  },
-  {
-    "id": "20260209-204801-51po",
-    "title": "Alàide",
-    "commanders": [
-      "Alàide"
-    ],
-    "dateStart": "2026-02-09T20:48:01.000Z",
-    "dateEnd": "2026-02-09T22:52:10.000Z",
-    "dateLabel": "09/02/2026, 20:48:01 - 09/02/2026, 22:52:10",
-    "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260209-204801-51po",
-    "summary": {
-      "borderlandsPct": 0.10810810810810811,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 33,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 4,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-15T21:01:36.000Z",
+      "dateEnd": "2026-02-15T22:13:35.000Z",
+      "dateLabel": "15/02/2026, 21:01:36 - 15/02/2026, 22:13:35",
+      "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260215-210136-bvb0",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 36
+      }
+    },
+    {
+      "id": "20260212-205849-1dhs",
+      "title": "Alàide",
+      "commanders": [
+        "Alàide"
       ],
-      "avgSquadSize": 30,
-      "avgEnemySize": 19
-    }
-  },
-  {
-    "id": "20260208-210313-egq9",
-    "title": "Alàide",
-    "commanders": [
-      "Alàide"
-    ],
-    "dateStart": "2026-02-08T21:03:13.000Z",
-    "dateEnd": "2026-02-08T22:48:44.000Z",
-    "dateLabel": "08/02/2026, 21:03:13 - 08/02/2026, 22:48:44",
-    "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260208-210313-egq9",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 21,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 21,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-12T20:58:49.000Z",
+      "dateEnd": "2026-02-12T22:42:46.000Z",
+      "dateLabel": "12/02/2026, 20:58:49 - 12/02/2026, 22:42:46",
+      "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260212-205849-1dhs",
+      "summary": {
+        "borderlandsPct": 0.04,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 30
+      }
+    },
+    {
+      "id": "20260210-205333-d6xb",
+      "title": "Alàide",
+      "commanders": [
+        "Alàide"
       ],
-      "avgSquadSize": 32,
-      "avgEnemySize": 26
-    }
-  },
-  {
-    "id": "20260208-222348-ws8n",
-    "title": "Alàide",
-    "commanders": [
-      "Alàide"
-    ],
-    "dateStart": "2026-02-08T22:23:48.000Z",
-    "dateEnd": "2026-02-08T22:30:47.000Z",
-    "dateLabel": "08/02/2026, 22:23:48 - 08/02/2026, 22:30:47",
-    "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260208-222348-ws8n",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 1,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-02-10T20:53:33.000Z",
+      "dateEnd": "2026-02-10T22:58:17.000Z",
+      "dateLabel": "10/02/2026, 20:53:33 - 10/02/2026, 22:58:17",
+      "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260210-205333-d6xb",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 36,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 36
+      }
+    },
+    {
+      "id": "20260209-204801-51po",
+      "title": "Alàide",
+      "commanders": [
+        "Alàide"
       ],
-      "avgSquadSize": 38,
-      "avgEnemySize": 0
+      "dateStart": "2026-02-09T20:48:01.000Z",
+      "dateEnd": "2026-02-09T22:52:10.000Z",
+      "dateLabel": "09/02/2026, 20:48:01 - 09/02/2026, 22:52:10",
+      "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260209-204801-51po",
+      "summary": {
+        "borderlandsPct": 0.10810810810810811,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 33,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 19
+      }
+    },
+    {
+      "id": "20260208-210313-egq9",
+      "title": "Alàide",
+      "commanders": [
+        "Alàide"
+      ],
+      "dateStart": "2026-02-08T21:03:13.000Z",
+      "dateEnd": "2026-02-08T22:48:44.000Z",
+      "dateLabel": "08/02/2026, 21:03:13 - 08/02/2026, 22:48:44",
+      "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260208-210313-egq9",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 21,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 21,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 26
+      }
+    },
+    {
+      "id": "20260208-222348-ws8n",
+      "title": "Alàide",
+      "commanders": [
+        "Alàide"
+      ],
+      "dateStart": "2026-02-08T22:23:48.000Z",
+      "dateEnd": "2026-02-08T22:30:47.000Z",
+      "dateLabel": "08/02/2026, 22:23:48 - 08/02/2026, 22:30:47",
+      "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260208-222348-ws8n",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 0
+      }
     }
-  }
-]
+  ]
+}
