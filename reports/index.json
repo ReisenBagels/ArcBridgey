@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260316-200203-pcrk",
+      "title": "Alàide",
+      "commanders": [
+        "Alàide"
+      ],
+      "dateStart": "2026-03-16T20:02:03.000Z",
+      "dateEnd": "2026-03-16T22:01:29.000Z",
+      "dateLabel": "16/03/2026, 20:02:03 - 16/03/2026, 22:01:29",
+      "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260316-200203-pcrk",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 31,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260314-021159-ikk6",
       "title": "General Po Panda",
       "commanders": [
