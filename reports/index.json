@@ -1,10 +1,30 @@
 {
-  "siteTheme": {
-    "ui": "classic",
-    "paletteId": "Amethyst",
-    "kineticFont": "default"
-  },
+  "colorPalette": "electric-blue",
+  "glassSurfaces": true,
   "entries": [
+    {
+      "id": "20260330-210929-46pb",
+      "title": "Alàide",
+      "commanders": [
+        "Alàide"
+      ],
+      "dateStart": "2026-03-30T20:09:29.000Z",
+      "dateEnd": "2026-03-30T21:48:52.000Z",
+      "dateLabel": "30/03/2026, 21:09:29 - 30/03/2026, 22:48:52",
+      "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260330-210929-46pb",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 35
+      }
+    },
     {
       "id": "20260316-200203-pcrk",
       "title": "Alàide",
