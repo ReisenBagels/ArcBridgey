@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260503-220307-usf7",
+      "title": "Alàide",
+      "commanders": [
+        "Alàide"
+      ],
+      "dateStart": "2026-05-03T21:03:07.000Z",
+      "dateEnd": "2026-05-03T23:02:21.000Z",
+      "dateLabel": "03/05/2026, 22:03:07 - 04/05/2026, 00:02:21",
+      "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260503-220307-usf7",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 15,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260427-221450-vc41",
       "title": "Alàide",
       "commanders": [
