@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260606-233128-srqr",
+      "title": "Alàide",
+      "commanders": [
+        "Alàide"
+      ],
+      "dateStart": "2026-06-06T22:31:28.000Z",
+      "dateEnd": "2026-06-06T23:11:21.000Z",
+      "dateLabel": "06/06/2026, 23:31:28 - 07/06/2026, 00:11:21",
+      "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260606-233128-srqr",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 31,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260604-023716-7ifv",
       "title": "General Po Panda",
       "commanders": [
