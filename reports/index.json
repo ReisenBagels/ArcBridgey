@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260615-225250-cxkh",
+      "title": "Alàide, Zwollf",
+      "commanders": [
+        "Alàide",
+        "Zwollf"
+      ],
+      "dateStart": "2026-06-15T21:52:50.000Z",
+      "dateEnd": "2026-06-15T22:59:37.000Z",
+      "dateLabel": "15/06/2026, 22:52:50 - 15/06/2026, 23:59:37",
+      "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260615-225250-cxkh",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260613-224817-n12k",
       "title": "Alàide",
       "commanders": [
