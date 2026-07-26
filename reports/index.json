@@ -1,8 +1,31 @@
 {
   "colorPalette": "electric-blue",
   "glassSurfaces": true,
-  "glassmorphic": false,
+  "glassmorphic": true,
   "entries": [
+    {
+      "id": "20260725-231520-mgc5",
+      "title": "Alàide",
+      "commanders": [
+        "Alàide"
+      ],
+      "dateStart": "2026-07-25T22:15:20.000Z",
+      "dateEnd": "2026-07-25T22:58:13.000Z",
+      "dateLabel": "25/07/2026, 23:15:20 - 25/07/2026, 23:58:13",
+      "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260725-231520-mgc5",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 35,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 27
+      }
+    },
     {
       "id": "20260723-225330-8c62",
       "title": "Alàide, Lorphene",
