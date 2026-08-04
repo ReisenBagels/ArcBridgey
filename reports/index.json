@@ -4,6 +4,39 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260804-030955-sh7b",
+      "title": "Atros Sandveil",
+      "commanders": [
+        "Atros Sandveil"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-04T02:09:55.000Z",
+      "dateEnd": "2026-08-04T02:59:58.000Z",
+      "dateLabel": "04/08/2026, 03:09:55 - 04/08/2026, 03:59:58",
+      "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260804-030955-sh7b",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 27,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260802-231012-gze0",
       "title": "Alàide",
       "commanders": [
