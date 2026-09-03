@@ -4,6 +4,40 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260903-221539-khol",
+      "title": "Alàide, Meltdown Manager",
+      "commanders": [
+        "Alàide",
+        "Meltdown Manager"
+      ],
+      "guild": {
+        "id": "5342C6BA-AF09-EF11-8465-0228F2FB5E53",
+        "name": "Hold My Glass",
+        "tag": "WINE"
+      },
+      "dateStart": "2026-09-03T21:15:39.000Z",
+      "dateEnd": "2026-09-03T22:33:02.889Z",
+      "dateLabel": "03/09/2026, 22:15:39 - 03/09/2026, 23:33:02",
+      "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260903-221539-khol",
+      "summary": {
+        "borderlandsPct": 0.48148148148148145,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 13,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260901-025158-zc4p",
       "title": "Alàide",
       "commanders": [
