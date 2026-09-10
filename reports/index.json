@@ -4,6 +4,39 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260910-221237-lfur",
+      "title": "Alàide",
+      "commanders": [
+        "Alàide"
+      ],
+      "guild": {
+        "id": "5342C6BA-AF09-EF11-8465-0228F2FB5E53",
+        "name": "Hold My Glass",
+        "tag": "WINE"
+      },
+      "dateStart": "2026-09-10T21:12:37.000Z",
+      "dateEnd": "2026-09-10T22:49:41.561Z",
+      "dateLabel": "10/09/2026, 22:12:37 - 10/09/2026, 23:49:41",
+      "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260910-221237-lfur",
+      "summary": {
+        "borderlandsPct": 0.16666666666666666,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260906-221833-dbuj",
       "title": "Alàide",
       "commanders": [
