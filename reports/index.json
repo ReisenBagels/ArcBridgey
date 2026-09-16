@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260916-115749-v8zz",
+      "title": "Markus Is One",
+      "commanders": [
+        "Markus Is One"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-09-16T10:57:49.000Z",
+      "dateEnd": "2026-09-16T11:51:43.140Z",
+      "dateLabel": "16/09/2026, 11:57:49 - 16/09/2026, 12:51:43",
+      "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260916-115749-v8zz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20260913-221034-kzap",
       "title": "Alàide",
       "commanders": [
