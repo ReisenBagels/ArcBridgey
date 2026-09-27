@@ -5,6 +5,35 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260927-220528-on4z",
+      "title": "Alàide, Notzwollf",
+      "commanders": [
+        "Alàide",
+        "Notzwollf"
+      ],
+      "guild": {
+        "id": "5342C6BA-AF09-EF11-8465-0228F2FB5E53",
+        "name": "Hold My Glass",
+        "tag": "WINE"
+      },
+      "dateStart": "2026-09-27T21:05:28.000Z",
+      "dateEnd": "2026-09-27T22:32:04.996Z",
+      "dateLabel": "27/09/2026, 22:05:28 - 27/09/2026, 23:32:04",
+      "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20260927-220528-on4z",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260926-222545-lsvt",
       "title": "Alàide",
       "commanders": [
