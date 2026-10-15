@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.5"
+    "version": "3.22.7"
   },
   "entries": [
+    {
+      "id": "20261015-221506-8bvf",
+      "title": "Alàide",
+      "commanders": [
+        "Alàide"
+      ],
+      "guild": {
+        "id": "5342C6BA-AF09-EF11-8465-0228F2FB5E53",
+        "name": "Hold My Glass",
+        "tag": "WINE"
+      },
+      "dateStart": "2026-10-15T21:15:06.000Z",
+      "dateEnd": "2026-10-15T21:54:03.595Z",
+      "dateLabel": "15/10/2026, 22:15:06 - 15/10/2026, 22:54:03",
+      "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20261015-221506-8bvf",
+      "publishedBy": "ReisenBagels",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 44,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 33
+      }
+    },
     {
       "id": "20261011-220501-xqpf",
       "title": "Alàide, Zwollf",
