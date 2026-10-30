@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.9"
+    "version": "3.22.10"
   },
   "entries": [
+    {
+      "id": "20261030-141744-qgnt",
+      "title": "Thanos Supreme",
+      "commanders": [
+        "Thanos Supreme"
+      ],
+      "guild": {
+        "id": "D7F29084-A69C-F111-BB1F-12683E7B69EB",
+        "name": "Downsize",
+        "tag": "XXV"
+      },
+      "dateStart": "2026-10-30T14:17:44.000Z",
+      "dateEnd": "2026-10-30T14:47:41.889Z",
+      "dateLabel": "30/10/2026, 14:17:44 - 30/10/2026, 14:47:41",
+      "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20261030-141744-qgnt",
+      "publishedBy": "ReisenBagels",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 38,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 37
+      }
+    },
     {
       "id": "20261029-214920-7yh3",
       "title": "Alàide",
