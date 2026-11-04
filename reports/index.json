@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.10"
+    "version": "3.22.11"
   },
   "entries": [
+    {
+      "id": "20261104-132243-7zkc",
+      "title": "Thanos Supreme",
+      "commanders": [
+        "Thanos Supreme"
+      ],
+      "guild": {
+        "id": "D7F29084-A69C-F111-BB1F-12683E7B69EB",
+        "name": "Downsize",
+        "tag": "XXV"
+      },
+      "dateStart": "2026-11-04T13:22:43.000Z",
+      "dateEnd": "2026-11-04T14:03:57.111Z",
+      "dateLabel": "04/11/2026, 13:22:43 - 04/11/2026, 14:03:57",
+      "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20261104-132243-7zkc",
+      "publishedBy": "ReisenBagels",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 32,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 37
+      }
+    },
     {
       "id": "20261102-125235-ubvq",
       "title": "Thanos Supreme",
