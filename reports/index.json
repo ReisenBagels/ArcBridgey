@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.11"
+    "version": "3.22.12"
   },
   "entries": [
+    {
+      "id": "20261108-131214-5481",
+      "title": "Furry Fluffy Fur",
+      "commanders": [
+        "Furry Fluffy Fur"
+      ],
+      "guild": {
+        "id": "D7F29084-A69C-F111-BB1F-12683E7B69EB",
+        "name": "Downsize",
+        "tag": "XXV"
+      },
+      "dateStart": "2026-11-08T13:12:14.000Z",
+      "dateEnd": "2026-11-08T14:31:59.426Z",
+      "dateLabel": "08/11/2026, 13:12:14 - 08/11/2026, 14:31:59",
+      "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20261108-131214-5481",
+      "publishedBy": "ReisenBagels",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 21
+      }
+    },
     {
       "id": "20261105-220759-dlq6",
       "title": "Alàide",
