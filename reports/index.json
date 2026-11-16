@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261115-221034-ys4n",
+      "title": "Notzwollf",
+      "commanders": [
+        "Notzwollf"
+      ],
+      "guild": {
+        "id": "5342C6BA-AF09-EF11-8465-0228F2FB5E53",
+        "name": "Hold My Glass",
+        "tag": "WINE"
+      },
+      "dateStart": "2026-11-15T22:10:34.000Z",
+      "dateEnd": "2026-11-15T22:43:51.461Z",
+      "dateLabel": "15/11/2026, 22:10:34 - 15/11/2026, 22:43:51",
+      "url": "https://ReisenBagels.github.io/ArcBridgey/?report=20261115-221034-ys4n",
+      "publishedBy": "ReisenBagels",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 61,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20261114-210918-zlgd",
       "title": "Notzwollf",
       "commanders": [
